@@ -4,3 +4,16 @@
 // 12 13 14 05
 // 11 16 15 06
 // 10 09 08 07
+
+Console.Clear();
+
+int size = 4;
+int[,] array = new int[size,size]
+
+for (int i = 0; i < size; i++)
+{
+    for (int j = 0; j < size; j++)
+    {
+        
+    }
+}
