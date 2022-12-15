@@ -66,6 +66,8 @@ int[,] SortArray(int[,] inArray)
 
 int[,] array = GetArrayMatrix(rows, columns, 0, 9);
 
+Console.WriteLine("Исходный массив");
 PrintArray(array);
 
+Console.WriteLine("Массив отсортированный на убывание построчно");
 PrintArray(SortArray(array));
