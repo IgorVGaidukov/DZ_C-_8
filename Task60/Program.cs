@@ -64,7 +64,6 @@ void PrintArray(int[,,] inArray)
     }
 }
 
-
 bool IsValueInArray(int[,,] inArray, int value) // Проверка наличия числа в массиве
 {
     bool fl = false;

@@ -70,4 +70,4 @@ int[,] array = GetArrayMatrix(rows, columns, 0, 9);
 
 PrintArray(array);
 
-Console.WriteLine($"номер строки с наименьшей суммой элементов: {GetMinSumRows(array)+1} строка");
+Console.WriteLine($"номер строки (от 1) с наименьшей суммой элементов: {GetMinSumRows(array)+1} строка");
